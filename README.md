@@ -22,4 +22,4 @@ Pull request açabilirsiniz. Büyük değişiklikler için, lütfen önce neyi d
 
 ## License
 
-MIT Licence
+MIT License
